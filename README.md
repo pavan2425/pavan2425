@@ -1,7 +1,7 @@
 - 👋 Hi, I’m pavan
 - 👀 I’m interested in Building application
 - 🌱 I’m currently learning K8s,Go
-- 📫 How to reach me pavanbhat24@gmail.com
+- 📫 Reach me at pavanbhat24@gmail.com
 
 <!---
 pavan2425/pavan2425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
