@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pavan
-- 👀 I’m interested in Building application
-- 🌱 I’m currently learning K8s,Go
+- 👀 I’m interested in solving problems
+- 🌱 I’m interested in  K8s,Go,python,GRPC,ML
 - 📫 Reach me at pavanbhat24@gmail.com
 
 <!---
